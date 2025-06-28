@@ -1,4 +1,4 @@
-name: pelisu
+name: pelisu 
 on: 
   push:
     branches: [ "main" ]
